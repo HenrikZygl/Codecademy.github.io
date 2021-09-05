@@ -1,0 +1,22 @@
+body {
+
+}
+
+
+
+#referal {
+	font-weight: bold;
+}
+
+.heading-background {
+	background-color: white;
+}
+
+a:hover{
+	color: darkorange;
+}
+	
+article {
+	background: #CDCDCD;
+	
+}
